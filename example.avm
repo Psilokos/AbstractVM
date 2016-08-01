@@ -1,0 +1,15 @@
+;−−−−−−−−−−−−−−−
+;−example.avm−
+;−−−−−−−−−−−−−−−
+								push					     int32(33)					   ; des grosses barres
+push int32(43)
+add
+push int32(5)
+div
+push int8(2)
+mod
+dump
+assert int16(1)
+pop
+dump
+exit

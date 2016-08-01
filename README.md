@@ -8,4 +8,4 @@ The way to communicate with the machine is an assembly language whose the gramma
 There is an example of code in example.avm
 
 
-";;" considered as the whole instruction means we reach the end of the input (for stdin)
+";;" considered as the whole instruction means we reached the end of the input (for stdin).
